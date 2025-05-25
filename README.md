@@ -1,2 +1,1 @@
-# GitHubCloneProject
-alx eek 2 Git &amp; GitHub
+This is the description of my repo
